@@ -1,6 +1,4 @@
 import multiprocessing
-import time
-import threading
 
 
 class CalculateJob(multiprocessing.Process):
